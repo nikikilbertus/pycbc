@@ -16,7 +16,7 @@ Flask-Cache==0.13.1
 Flask-SQLAlchemy==0.16
 funcsigs==0.4
 itsdangerous==0.21
-Jinja2==2.7
+Jinja2==2.8.1
 linecache2==1.0.0
 Mako==1.0.2
 MarkupSafe==0.18
